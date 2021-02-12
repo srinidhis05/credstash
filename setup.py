@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 from setuptools import setup
 
-name = 'credstash'
-version = '1.17.1'
+name = 'srinidhi-credstash'
+version = '1.17.2'
 
 setup(
     name=name,
