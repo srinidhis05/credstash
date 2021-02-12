@@ -401,5 +401,3 @@ That said, S3 support may happen someday.
 
 ### 5. Where can I learn more about use cases and context for something like credstash?
 Check out this blog post: http://blog.fugue.it/2015-04-21-aws-kms-secrets.html
-
-
